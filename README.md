@@ -22,6 +22,11 @@ Welcome to my central portfolio hub — a curated collection of end‑to‑end a
 End‑to‑end analytics project using Kaggle pizza sales data. Includes SQL modeling, KPI queries, Excel dashboards, Power BI version, cybersecurity RBAC, agile documentation, and business analysis.Interactive Excel dashboard with slicers, KPIs, pivot tables, and clean UI design. Demonstrates dashboard storytelling and Excel automation skills.
 
 ---
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Data%20Modeling-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kaggle-Pizza%20Sales%20Data-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-KPIs%20%7C%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ## 2️⃣ Domino’s Pizza Sales – Power BI Dashboard  
 **Repository:**  
@@ -29,12 +34,6 @@ End‑to‑end analytics project using Kaggle pizza sales data. Includes SQL mod
 
 **Description:**  
 Interactive Power BI dashboard built using the Kaggle pizza_sales.csv dataset. Includes DAX measures, star schema modeling, date intelligence, KPI cards, slicers, and a clean Sales & Product Performance page. Designed as part of a full end‑to‑end analytics workflow (SQL → Power Query → Power BI).
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Data%20Modeling-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kaggle-Pizza%20Sales%20Data-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-KPIs%20%7C%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
 ---
 
